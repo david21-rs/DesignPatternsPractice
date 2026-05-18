@@ -1,0 +1,8 @@
+java: cannot reference amount before supertype constructor has been called - i asked for this error
+
+what is javas in built logging and how to use it
+arraylist in java and how to use them properly
+learnt abt and how to implement decorators
+learnt how to implement chain of responsibility (asked for an example program )
+minor bug fixing
+help with some UI animations and java swing
